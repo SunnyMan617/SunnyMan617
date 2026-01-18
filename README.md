@@ -1,9 +1,3 @@
-# Portfolio
-
-**Innovative Full Stack Developer**, skilled in **React, Next, TypeScript, and .NET**, specializing in building scalable, high-performance solutions that enhance efficiency across finance, hospitality, and e-commerce.
-
----
-
 ## 👋 About Me
 
 Innovative Full Stack Engineer with proven expertise in designing scalable solutions to automate and optimize business processes. Skilled in React, Next, TypeScript, and .NET technologies, with a strong background in developing high-performance front-end and back-end systems. Adept at reducing human error, improving operational efficiency, and delivering impactful digital solutions for industries including finance, hospitality, and e-commerce.
