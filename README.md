@@ -3,7 +3,8 @@
 # About Me
 <br/>
 - 🔭 Full-Stack Web Developer with over 6 years of experience designing and building scalable, high-performance web applications<br/>
-- 🌱 Proficient in front-end technologies like React, Next.js, Angular, and Vue.js, as well as back-end technologies like Node.js, .NET Core, and Laravel<br/>
+- 🌱 Proficient in front-end technologies like React, Next.js, Angular, Vue.js, and Flutter, as well as back-end technologies like Node.js, .NET Core, and Laravel<br/>
+- 📱 Experienced in Flutter/Dart development for cross-platform mobile and desktop applications<br/>
 - 👍 Experienced in database design, stored procedures, and working with SQL Server, MongoDB, and MySQL<br/>
 - 😍 Skilled in modern UI frameworks including Material UI, Tailwind CSS, and Bootstrap<br/>
 - 😉 Strong background in agile methodologies, version control systems, and collaborative team environments<br/>
@@ -44,11 +45,19 @@
       <br>Nuxt
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Node.js
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=csharp" width="48" height="48" alt="C#" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
       <br>C#
     </td>
   </tr>
@@ -100,7 +109,7 @@
       <br>MongoDB
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mssql" width="48" height="48" alt="SQL Server" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server" />
       <br>SQL Server
     </td>
             <td align="center" width="96">
@@ -122,6 +131,13 @@
               <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
+    </td>
+              <td align="center" width="96">
+        <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect width="48" height="48" rx="8" fill="#FF6B6B"/>
+          <text x="50%" y="50%" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="central">R</text>
+        </svg>
+      <br>Riverpod
     </td>
  </tr>
 </table>
