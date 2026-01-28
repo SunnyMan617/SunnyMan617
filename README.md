@@ -56,10 +56,6 @@
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Node.js
     </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
-      <br>C#
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -97,6 +93,10 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
       <br>Sass
+    </td>
+        <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+      <br>C#
     </td>
   </tr>
  <tr>
